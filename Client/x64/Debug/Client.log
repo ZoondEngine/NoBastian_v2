@@ -1,0 +1,17 @@
+﻿  Main.cpp
+c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\types.h(64): warning C4200: нестандартное расширение: массив нулевого размера в структуре (объединении)
+  c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\types.h(64): note: Этот член будет пропущен конструктором, установленным по умолчанию, или оператором назначения копии или перемещения
+c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\types.h(71): warning C4200: нестандартное расширение: массив нулевого размера в структуре (объединении)
+  c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\types.h(71): note: Этот член будет пропущен конструктором, установленным по умолчанию, или оператором назначения копии или перемещения
+c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\abclient.h(33): warning C4244: аргумент: преобразование "uint64_t" в "DWORD", возможна потеря данных
+c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\abclient.h(38): warning C4244: аргумент: преобразование "uint64_t" в "DWORD", возможна потеря данных
+c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\util.h(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\util.h(74): warning C4244: аргумент: преобразование "uint64_t" в "DWORD", возможна потеря данных
+c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\util.h(188): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\util.h(220): warning C4091: typedef : пропускается слева от "asmjs::Util::QueryProcessHandles::SYSTEM_HANDLE_TABLE_ENTRY_INFO_EX", когда ни одна переменная не объявлена
+c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\util.h(227): warning C4091: typedef : пропускается слева от "asmjs::Util::QueryProcessHandles::SYSTEM_HANDLE_INFORMATION_EX", когда ни одна переменная не объявлена
+c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\main.cpp(28): warning C4477: "printf": в строке форматирования "%X" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "uint64_t"
+  c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\main.cpp(28): note: рекомендуется использовать "%llX" в строке форматирования
+  c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\main.cpp(28): note: рекомендуется использовать "%IX" в строке форматирования
+  c:\users\zengine\downloads\nobastian_[unknowncheats.me]_\nobastian\client\main.cpp(28): note: рекомендуется использовать "%I64X" в строке форматирования
+  Client.vcxproj -> C:\Users\ZEngine\Downloads\NoBastian_[unknowncheats.me]_\NoBastian\x64\Debug\Client.exe
